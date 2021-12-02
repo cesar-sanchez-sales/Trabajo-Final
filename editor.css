@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url("./portada-wp-modahombre.jpg")
+}
+
+.sombreado-AC {
+    background-color: rgb(145, 128, 128) !important;
+}
+.nav-link {
+    color: rgb(15, 15, 15);
+
+}
+
+.color-AC {
+    color: rgb(184, 23, 23) !important;
+}
+
+.navbar-brand{
+    color: rgb(204, 19, 19) !important;
+}
+
+h2 {
+    color:rgb(167, 63, 23);
+}
+
+
+p{
+    font-size: 24px;
+    font-family:cursive;
+    color: rgb(102, 20, 20);
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline;
+    background-color: rgb(233, 213, 213);
+
+}
+
+h3 {
+    
+    display: inline;
+}
+
+#id{
+    background-color: seashell;
+}
